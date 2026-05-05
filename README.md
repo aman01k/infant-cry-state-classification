@@ -1,6 +1,6 @@
 🍼 Infant Cry State Classification
 Hybrid Deep Learning System for Infant Cry Analysis
-<p align="center"> <img src="output images/architecture_diagram.png" width="700"/> </p> <p align="center"> <b>CNN + Acoustic Feature Fusion · Audio AI · Healthcare Assistive Tech</b> </p>
+<p align="center"> <img src="output images/result images/architecture_diagram.png" width="700"/> </p> <p align="center"> <b>CNN + Acoustic Feature Fusion · Audio AI · Healthcare Assistive Tech</b> </p>
 🚀 Overview
 
 Infants communicate only through crying — but interpreting the reason is difficult even for trained caregivers.
